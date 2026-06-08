@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+09-Assets/Temp/*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
