@@ -19,7 +19,7 @@
 ## 📋 学习任务清单
 
 ### 1. Git 基础
-- [ ] Git 安装与配置（用户名、邮箱、SSH Key）
+- [x] Git 安装与配置（用户名、邮箱、SSH Key）
 - [ ] 核心命令：`clone`, `add`, `commit`, `push`, `pull`, `branch`
 - [ ] GitHub 工作流：Fork → Clone → Branch → PR
 - [ ] 常用场景：代码回滚、冲突解决、.gitignore
