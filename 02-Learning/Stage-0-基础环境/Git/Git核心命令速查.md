@@ -11,7 +11,7 @@
 | **学习日期** | 2026-06-08 |
 | **知识分类** | Git |
 | **来源** | 实践总结 |
-| **关联笔记** | [Git笔记](./Git笔记.md) |
+| **关联笔记** | [Git笔记：Git 基础与仓库初始化](Git笔记：Git%20基础与仓库初始化.md) |
 
 ---
 
@@ -185,6 +185,6 @@ git push                    # 推送
 
 ## 🔗 关联笔记
 
-- [Git笔记](./Git笔记.md) — Git 仓库初始化完整流程
+- [Git笔记：Git 基础与仓库初始化](Git笔记：Git%20基础与仓库初始化.md) — Git 仓库初始化完整流程
 - [GitHub 官方文档](https://docs.github.com/)
 - [learngitbranching.js.org](https://learngitbranching.js.org/?locale=zh_CN)
