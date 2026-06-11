@@ -139,7 +139,7 @@ git push                      # 3. 推送到 GitHub
 
 - [Git笔记](./Git笔记.md) — Git 仓库初始化完整流程
 - [Git核心命令速查](./Git核心命令速查.md) — clone/add/commit/push/pull/branch 详解
-- [学习任务](./学习任务.md) — Stage-0 全部任务清单
+- [学习任务](学习任务.md) — Stage-0 全部任务清单
 
 ---
 
